@@ -1,0 +1,10 @@
+{
+  "name": "com.gunslinger.resource-management",
+  "version": "1.0.0",
+  "displayName": "Gunslinger Resource Management",
+  "description": "Flexible resource management system for Unity games (coins, gems, etc).",
+  "unity": "2021.3",
+  "author": {
+    "name": "Gunslinger"
+  }
+}
