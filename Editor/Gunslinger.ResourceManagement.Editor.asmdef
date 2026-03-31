@@ -1,0 +1,18 @@
+{
+  "name": "Gunslinger.ResourceManagement.Editor",
+  "rootNamespace": "",
+  "references": [
+    "Gunslinger.ResourceManagement"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
